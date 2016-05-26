@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "401334886054",
+    "project_id": "push-noti-b9fca"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401334886054:android:05560b57567d73a7",
+        "android_client_info": {
+          "package_name": "com.example.phamngoctuan.testpushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6k7A-44PAUsRsHc5IvipRZWwq5A7vJho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
